@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **SharePad**<br><br>🌱 I’m currently learning **Go**<br><br>📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/_krish/articles/](https://auth.geeksforgeeks.org/user/_krish/articles/)<br><br>💬 Ask me about **Flutter, Next.js, Go, etc.**<br><br>📫 How to reach me **skrishnagopal786@gmail.com**<br><br>⚡ Fun fact **Student of the year btw.**
+🔭 I’m currently working on **SharePad**<br><br>🌱 I’m currently learning **Go**<br><br>📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/_krish/articles/](https://auth.geeksforgeeks.org/user/_krish/articles/)<br><br>💬 Ask me about **Flutter, Next.js, Go, etc.**<br><br>⚡ Fun fact **Student of the year btw.**
 
 
 ## 🌐 Socials:
@@ -14,6 +14,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Krishnagopal-Sinha&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
+
+### 👾 Contributions
+<img src="https://raw.githubusercontent.com/Krishnagopal-Sinha/Krishnagopal-Sinha/output/snake.svg" alt="Snake animation" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
