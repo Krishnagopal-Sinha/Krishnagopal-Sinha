@@ -34,6 +34,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-#### P.S. As a thanks for checking my page out, here's a meme:
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
